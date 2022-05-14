@@ -1,4 +1,4 @@
-package com.learning;
+package com.learning.algorithms;
 
 public class Main {
     public static void main(String[] args) {

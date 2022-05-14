@@ -1,3 +1,8 @@
 rootProject.name = 'skills'
 include 'kafka'
+include 'corejava'
+include 'datastructures'
+include 'algorithms'
+include 'springframework'
+include 'apachecamel'
 
